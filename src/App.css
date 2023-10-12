@@ -1,0 +1,6 @@
+.crypto-list {
+  overflow-y: scroll;
+  max-height: 610px;
+  width: 310px;
+  
+}
